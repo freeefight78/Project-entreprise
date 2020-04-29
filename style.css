@@ -26,7 +26,8 @@ textarea {
 }
 
 .t2 {
- table-layout: auto;
+  width: 40em;
+  border-spacing: 5px;
 }
 
 tr, td {
