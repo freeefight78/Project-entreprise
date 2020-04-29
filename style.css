@@ -26,7 +26,7 @@ textarea {
 }
 
 .t2 {
-width: 2560px;
+width: inherit;
 }
 
 tr, td {
