@@ -20,6 +20,11 @@ textarea {
 .is-center {
   text-align: center;
 }
+
+table, th, td {
+  border: 3px solid black;
+}
+
 .button-success {
   color: white;
   border-radius: 4px;
