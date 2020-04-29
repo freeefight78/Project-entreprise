@@ -52,5 +52,5 @@ speedtest {
  width:70%;
 height:70;
 padding-bottom:70%;
-position:relative;
+  float: right;
 }
