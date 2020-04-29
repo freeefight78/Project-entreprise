@@ -31,7 +31,7 @@ height: 200px;
 }
 
 tr, td {
-   table-layout: auto;
+  width: 560px;
 }
 
 .button-success {
