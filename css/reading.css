@@ -8021,6 +8021,7 @@ button.altButton:hover,a.altButton:hover{
     text-align:center;
     border-radius:4px;
     cursor:pointer;
+    float: left;
 }
 .btn-learnmore-blue{
     display:inline-block;
