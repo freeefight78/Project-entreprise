@@ -27,12 +27,11 @@ textarea {
 }
 
 .t2 {
- border-spacing: 15px;
-  border: 1px solid red;
+ table-layout: auto;
 }
 
 tr, td {
-  border-spacing: 15px;
+   table-layout: auto;
 }
 
 td {
