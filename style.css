@@ -46,3 +46,11 @@ button {
 .honeypot-field {
   display: none;
 }
+
+speedtest {
+
+ width:70%;
+height:70;
+padding-bottom:70%;
+position:relative;
+}
