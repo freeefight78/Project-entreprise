@@ -37,14 +37,33 @@
         <label for="name">Nom et Prénom :</label>
         <input id="name" name="name" placeholder="Exemple : Jérémy Aires" />
       </fieldset>
-   
-         <fieldset class="pure-group">
-        <label for="email">Merci d'indiquer votre adresse Mail :</label>
-        <input id="email" name="email" type="email" value=""
-        required placeholder="Nom.prénom@gmail.com"/>
-      </fieldset>
         
-   <table class="t2"> <!-- ICI ajouter si CSS-->
+        <div class="form-elements">
+      <fieldset class="pure-group">
+        <label for="Stage">Intitule de la formation :</label>
+        <input id="Stage" name="Stage" placeholder="Azure AZ 900" />
+      </fieldset>
+   
+         <table class="t2"> <!-- Intituler stage  ICI-->
+         
+               <tr>
+       <fieldset class="pure-group">
+           <td> <label for="email">Merci d'indiquer votre adresse Mail :</label></td>
+           <td><label for="Numero">Numéro (facultatif) : </label></td>
+      </fieldset>
+            </tr>
+              <tr>
+            <fieldset class="pure-group">
+                   <td><input id="email" name="email" type="email" value=""
+                   required placeholder="Nom.prénom@gmail.com"/></td>
+                <td> <input id="Numero" name="Numero" placeholder="07 65 54 51 52" /></td>
+            </fieldset>
+                          
+            </tr>
+          
+        </table>
+        
+   <table class="t2"> <!-- IC-->
          
             
                <tr>
